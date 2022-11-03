@@ -10,13 +10,13 @@ This collection contains anything which is useful for Drupal developers, site bu
 ## Contents
 
 - [Modules](#modules)
+- [Testing](#testing)
 
 
 ## Modules
 
 ### Access control
 - [Permissions by Term](https://www.drupal.org/project/permissions_by_term) - Allows you to set permissions on a per term basis.
-// list of various popular drupal modules
 
 ### Administration area
 - [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) - Provides a drop-down menu interface for the Drupal 8 administrative menu.
@@ -24,3 +24,6 @@ This collection contains anything which is useful for Drupal developers, site bu
 ### Configuration management
 - [Client Config Care](https://www.drupal.org/project/client_config_care) - Prevents client config from getting lost (e.g. your customers' config).
 
+## Testing
+
+- [Drupal Test Traits](https://gitlab.com/weitzman/drupal-test-traits) - Traits for testing Drupal sites that have user content (versus unpopulated sites).
