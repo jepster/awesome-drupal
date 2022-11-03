@@ -1,7 +1,5 @@
 # Awesome Drupal [![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="drupal.svg" align="right" height="50">](https://www.drupal.org/about)
-
 > A collection of awesome(\*) resources, tools, books, examples etc for [Drupal CMS](https://www.drupal.org/). Mainly focused on 8.x+ versions.
 
 This collection contains anything which is useful for Drupal developers, site builders, themers and anyone who is interested in Drupal.
