@@ -24,4 +24,4 @@ This collection contains anything which is useful for Drupal developers, site bu
 
 ## Testing
 
-- [Drupal Test Traits](https://gitlab.com/weitzman/drupal-test-traits) - Traits for testing Drupal sites that have user content (versus unpopulated sites).
+- [Drupal Test Traits](https://gitlab.com/weitzman/drupal-test-traits) - Traits for testing Drupal sites that have user content (versus unpopulated sites or Drupal based products).
