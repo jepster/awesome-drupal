@@ -17,7 +17,7 @@ This collection contains anything which is useful for Drupal developers, site bu
 - [Permissions by Term](https://www.drupal.org/project/permissions_by_term) - Allows you to set permissions on a per term basis.
 
 ### Administration area
-- [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) - Provides a drop-down menu interface for the Drupal 8 administrative menu.
+- [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) - Provides a drop-down menu interface for the administrative menu.
 
 ### Configuration management
 - [Client Config Care](https://www.drupal.org/project/client_config_care) - Prevents client config from getting lost (e.g. your customers' config).
