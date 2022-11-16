@@ -21,6 +21,13 @@ This collection contains anything which is useful for Drupal developers, site bu
 
 ### Configuration management
 - [Client Config Care](https://www.drupal.org/project/client_config_care) - Prevents client config from getting lost (e.g. your customers' config).
+- [Configuration Split](https://www.drupal.org/project/config_split) - Separate configurations between different environments such as test, dev and prod.
+
+### Site building
+- [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) - Provides more functionality to Views filter elements.
+
+### Search & Metadata
+- [Pathauto](https://www.drupal.org/project/pathauto) - Generate url aliases for various kinds of content by using predefined patterns.
 
 ## Testing
 
