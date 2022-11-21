@@ -23,6 +23,10 @@ This collection contains anything which is useful for Drupal developers, site bu
 - [Client Config Care](https://www.drupal.org/project/client_config_care) - Prevents client config from getting lost (e.g. your customers' config).
 - [Configuration Split](https://www.drupal.org/project/config_split) - Separate configurations between different environments such as test, dev and prod.
 
+### Content management
+- [Media Directories](https://www.drupal.org/project/media_directories) - Provides directory structure to media management.
+- [Node Menus](https://www.drupal.org/project/node_menus) - Provides simpler menu editing on multi-lingual sites.
+
 ### Site building
 - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) - Provides more functionality to Views filter elements.
 
