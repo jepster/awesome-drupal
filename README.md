@@ -18,6 +18,7 @@ This collection contains anything which is useful for Drupal developers, site bu
 
 ### Administration area
 - [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) - Provides a drop-down menu interface for the administrative menu.
+- [Environment Indicator](https://www.drupal.org/project/environment_indicator) - Provides the possibility to set a different background color for the admin bar depending on the environment.
 
 ### Configuration management
 - [Client Config Care](https://www.drupal.org/project/client_config_care) - Prevents client config from getting lost (e.g. your customers' config).
@@ -32,6 +33,7 @@ This collection contains anything which is useful for Drupal developers, site bu
 
 ### Search & Metadata
 - [Pathauto](https://www.drupal.org/project/pathauto) - Generate url aliases for various kinds of content by using predefined patterns.
+- [Simple XML sitemap](https://www.drupal.org/project/simple_sitemap) - The module generates multilingual sitemaps for entities, views and custom links.
 
 ## Testing
 
