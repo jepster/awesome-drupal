@@ -28,6 +28,10 @@ This collection contains anything which is useful for Drupal developers, site bu
 - [Media Directories](https://www.drupal.org/project/media_directories) - Provides directory structure to media management.
 - [Node Menus](https://www.drupal.org/project/node_menus) - Provides simpler menu editing on multi-lingual sites.
 
+## Frontend
+- [Twig Tweak](https://www.drupal.org/project/twig_tweak) - Twig Tweak is a small module which provides a Twig extension with some useful functions and filters that can improve development experience.
+- [Slick Carousel](https://www.drupal.org/project/slick) - Slick is a powerful and performant slideshow/carousel solution leveraging Ken Wheeler's Slick carousel.
+
 ### Site building
 - [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) - Provides more functionality to Views filter elements.
 
@@ -35,6 +39,8 @@ This collection contains anything which is useful for Drupal developers, site bu
 - [Pathauto](https://www.drupal.org/project/pathauto) - Generate url aliases for various kinds of content by using predefined patterns.
 - [Simple XML sitemap](https://www.drupal.org/project/simple_sitemap) - The module generates multilingual sitemaps for entities, views and custom links.
 
-## Testing
+## Static Sites
+- [Tome](https://www.drupal.org/project/tome) - Tome is a static site generator, and a static storage system for content.
 
+## Testing
 - [Drupal Test Traits](https://gitlab.com/weitzman/drupal-test-traits) - Traits for testing Drupal sites that have user content (versus unpopulated sites or Drupal based products like modules).
