@@ -14,6 +14,7 @@ commentary and reviews in _(italic parens)_ after some listings of note.
 Maintainers:
 
 - [@jepster](https://github.com/jepster), author of [Permissions by Term](https://www.drupal.org/project/permissions_by_term)
+- [@rang501](https://github.com/rang501), author of [Media Directories](https://www.drupal.org/project/media_directories)
 
 
 ## Contents
