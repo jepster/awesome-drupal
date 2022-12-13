@@ -2,7 +2,18 @@
 
 > A collection of awesome resources, tools, books, examples etc. for the [Drupal CMS](https://www.drupal.org/). Mainly focused on 8.x+ versions.
 
-This collection contains anything which is useful for Drupal developers, site builders, themers and anyone who is interested in Drupal.
+This collection contains anything which is useful for Drupal developers, site builders, themers and anyone who is interested in Drupal. What does "awesome" mean? Well:
+
+- It solves a real problem
+- It does so in a 🦄 unique, 🦋 beautiful, or 🏆 exceptional way. (And it's not super popular and well-known... no point in listing those.)
+- It has recent code commits!
+
+Look for a 🚀 for truly amazing projects. And look for quickie maintainer
+commentary and reviews in _(italic parens)_ after some listings of note.
+
+Maintainers:
+
+- [@jepster](https://github.com/jepster), author of [Permissions by Term](https://www.drupal.org/project/permissions_by_term)
 
 
 ## Contents
