@@ -9,7 +9,7 @@ This collection contains anything which is useful for Drupal developers, site bu
 - It has recent code commits!
 
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer
-commentary and reviews in _(italic parens)_ after some listings of note.
+commentary and reviews after some listings of note.
 
 Maintainers:
 
